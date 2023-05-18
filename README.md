@@ -1,1 +1,1 @@
-    ![Dark mode toggle]('/assets/toggle.gif')
+![Dark mode toggle](/assets/toggle.gif)
